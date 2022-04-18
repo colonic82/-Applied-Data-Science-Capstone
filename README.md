@@ -4,5 +4,5 @@ Sono Pino, spero che il progetto vi piaccia e... fatemi gli "in bocca al lupo"!
 
 Grazie!
 
-spacex_dash_app:
+Interactive Dashboard with Ploty Dash:
 https://ibm-applied-data-science-capst.herokuapp.com/
